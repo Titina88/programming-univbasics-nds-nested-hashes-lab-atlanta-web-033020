@@ -8,5 +8,6 @@ def odd
       oddly.push(array[index])
    end 
    index +=1
-end  
+    end
+    oddly
 end
